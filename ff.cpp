@@ -1,3 +1,10 @@
+find the minimum element of the array and also find the minimum alement whether even ir odd.
+
+
+
+
+
+
 #include <iostream>
 using namespace std;
 int smallest(int arr[], int size)
